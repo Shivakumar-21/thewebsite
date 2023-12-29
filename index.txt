@@ -26,7 +26,7 @@ Login / Register
 
 <ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
 Wishlist
-
+0
 
 <ion-icon name="bag-outline" aria-hidden="true"></ion-icon>
 Basket: 24000 rs
